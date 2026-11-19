@@ -1,6 +1,6 @@
 # Relevo — Presentación del proyecto
 
-Sitio de presentación de **Relevo**, una app de entrenamiento de fuerza para grupos de amigos: entreno en vivo en el mismo gimnasio, motor de progresión con 6 modelos, competencia justa donde cada quien se mide contra sí mismo y modo sin conexión.
+Sitio de presentación de **Relevo**, una app de entrenamiento de fuerza para grupos de amigos: entreno en vivo en el mismo gimnasio o en gimnasios distintos, motor de progresión con 6 modelos, un coach (Kronno) que cita el estudio de cada consejo, competencia justa donde cada quien se mide contra sí mismo y modo sin conexión.
 
 🌐 **En vivo:** https://relevo.webtrader.trade
 👥 **Página para usuarios:** https://webtrader.trade/relevo/
