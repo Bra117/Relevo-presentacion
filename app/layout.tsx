@@ -3,7 +3,7 @@ import { LanguageProvider } from "@/lib/LanguageContext";
 import "./globals.css";
 
 const description =
-  "App de entrenamiento de fuerza para grupos: entreno en vivo, motor de progresión, competencia justa y modo sin conexión. Flutter, Node.js/TypeScript y PostgreSQL.";
+  "App de entrenamiento de fuerza para grupos: entreno en vivo, motor de progresión, un coach que cita estudios, competencia justa y modo sin conexión. Flutter, Node.js/TypeScript y PostgreSQL.";
 
 export const metadata: Metadata = {
   title: "Relevo — Entrenamiento de fuerza en grupo",

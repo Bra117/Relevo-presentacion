@@ -10,6 +10,8 @@ const FILES = [
   "05-grupo-en-vivo",
   "06-mi-equipo",
   "07-liga",
+  "04-progreso",
+  "13-manual-musculos",
 ];
 
 export default function Screenshots() {
